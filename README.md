@@ -1,2 +1,2 @@
 # CircleViewPagerDemo
-A simple way to create recycle ViewPager.
+A simple way to create cyclic ViewPager.
