@@ -1,0 +1,3 @@
+pubic class CIError {
+  
+}
